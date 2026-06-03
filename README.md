@@ -17,8 +17,6 @@
 #### 🛠 **Device Tree & System Fixes**
 * **Primal Fluidity:** Hardcoded SurfaceFlinger rendering pipeline variables to enforce a locked 120Hz floor across all standard UI threads and frame categories.
 * **Touch Response:** Fixed SurfaceFlinger scheduler uclamp errors for background tasks and screenshots, reducing rendering jitter and eliminating micro-stutters when waking the panel.
-* **Production Stabilization:** Switched completely to an official `user` build configuration with release-keys configurations.
-* **Boot Fixes:** Restored missing legacy vendor graphics, keymaster, and binder dependencies (`libbinder-v32`, etc.), completely resolving the early boot loop caused by `hal_cryptoeng_oppo`.
 
 #### 🛡 **SEPolicy & Security Updates**
 * Enforced strict, pristine SELinux rules natively matching Android's production environment specifications.
