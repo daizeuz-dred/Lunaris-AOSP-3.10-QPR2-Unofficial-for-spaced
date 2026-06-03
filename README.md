@@ -1,3 +1,7 @@
+<img width="4096" height="2119" alt="Picsart_26-06-04_03-28-23-368" src="https://github.com/user-attachments/assets/f2948c95-3209-4497-9dee-978e7a738074" />
+
+
+
 # Lunaris-AOSP 3.10 | Unofficial 
 
 * **Device:** Realme 8i / Narzo 50 (spaced)
@@ -33,4 +37,5 @@
 
 ### 🤝 **Credits & Thanks**
 * Huge thanks to `@HELLINFIX` for the foundational source collaboration and device tree support.
+* Thanks to @ViaanLarryROMS for the assistance in adding Sony Dolby
 * To all our community testers who ran log streams to track down some issues.
