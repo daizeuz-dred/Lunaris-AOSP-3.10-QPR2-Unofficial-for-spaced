@@ -1,4 +1,4 @@
-# Lunaris-AOSP 3.10 // Official Release
+# Lunaris-AOSP 3.10 | Unofficial 
 
 * **Device:** Realme 8i / Narzo 50 (spaced)
 * **Build Type:** User | GAPPS
