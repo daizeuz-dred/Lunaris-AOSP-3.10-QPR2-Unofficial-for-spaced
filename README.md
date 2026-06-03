@@ -33,4 +33,4 @@
 
 ### 🤝 **Credits & Thanks**
 * Huge thanks to `@HELLINFIX` for the foundational source collaboration and device tree support.
-* To all our community testers who ran log streams to track down the boot loop blocks.
+* To all our community testers who ran log streams to track down some issues.
