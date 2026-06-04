@@ -9,7 +9,7 @@
 * **Android Version:** 16 | QPR2
 * **Maintainer:** D Ξ Ξ Z N U T Z
 * **Release Date:** June 04, 2026
-* **Download Link Here: https://drive.google.com/file/d/1Yyiw0LfWa5kcXA72PWwnymg0GFxX6FrD/view?usp=drive_link
+* **Download Link Here:** https://drive.google.com/file/d/1Yyiw0LfWa5kcXA72PWwnymg0GFxX6FrD/view?usp=drive_link
 
 ---
 
